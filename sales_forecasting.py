@@ -1,10 +1,6 @@
-###################################################################################
-
-
 #                                                LOADING DATA
 
 
-###################################################################################
 import pandas as pd #for handling dataset
 import numpy as np #for mathematical calculations
 import matplotlib.pyplot as plt #for making graphs
